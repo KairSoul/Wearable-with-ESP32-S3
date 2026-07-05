@@ -1,6 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "MF-MSMF110_16-2")(type "KiCad")(uri "D:/Kicad/Wearable/Libraries/Symbol/MF-MSMF110_16-2.kicad_sym")(options "")(descr ""))
-  (lib (name "BMI270")(type "KiCad")(uri "D:/Kicad/Wearable/Libraries/Symbol/BMI270.kicad_sym")(options "")(descr ""))
-  (lib (name "SY8089AAC")(type "KiCad")(uri "D:/Kicad/Wearable/Libraries/Symbol/SY8089AAC.kicad_sym")(options "")(descr ""))
-)
